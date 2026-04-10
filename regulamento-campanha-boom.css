@@ -13,8 +13,10 @@
   margin: 0 auto;
   padding: 60px 0 80px;
   background: var(--boom-background);
+  color: var(--boom-white);
   font-size: 15px;
   line-height: 1.75;
+  font-family: 'Red Hat Display', 'Open Sans', sans-serif;
 }
 
 /* ─── Fontes ─── */
