@@ -90,7 +90,7 @@
   font-weight: 700;
   letter-spacing: 3px;
   text-transform: uppercase;
-  color: var(--boom-color);
+  color: var(--boom-gold-light);
   margin-bottom: 14px;
   display: flex;
   align-items: center;
@@ -101,7 +101,7 @@
   content: '';
   flex: 1;
   height: 1px;
-  background: var(--boom-gold-light);
+  background: var(--boom-gray);
 }
 
 .boom-regulamento .br-secao-h2 {
